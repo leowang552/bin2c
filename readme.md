@@ -1,5 +1,5 @@
 # write bin file(pe or elf) to c file or header file
-# support android & ios & win & linux & mac os x & athor like unix'os
+# support android & ios & win & linux & mac os x & othor like unix'os
 # write in pure c 
 # build on win
 open bin2c.sln with vs 2015
